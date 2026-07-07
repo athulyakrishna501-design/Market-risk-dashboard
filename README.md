@@ -1,6 +1,8 @@
 # Market Risk Dashboard — Quantitative Methods
 
 A multi-asset market risk analytics notebook implementing core quantitative risk methods used by risk desks at investment banks and asset managers.
+<img width="1328" height="490" alt="image" src="https://github.com/user-attachments/assets/21814057-9508-48c4-ac19-ff0c6c154aea" />
+
 
 ## Quantitative Methods Covered
 
@@ -31,8 +33,6 @@ jupyter notebook market_risk_dashboard.ipynb
 ```
 
 ## Key Outputs
-<img width="1328" height="490" alt="image" src="https://github.com/user-attachments/assets/a28fbbaf-4cb8-43a8-8581-c5237de0fc2a" />
-
 
 - VaR comparison across three methodologies at 90%, 95%, 99% confidence
 - Expected Shortfall tail risk analysis
