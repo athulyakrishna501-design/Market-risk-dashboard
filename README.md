@@ -31,6 +31,8 @@ jupyter notebook market_risk_dashboard.ipynb
 ```
 
 ## Key Outputs
+<img width="1328" height="490" alt="image" src="https://github.com/user-attachments/assets/a28fbbaf-4cb8-43a8-8581-c5237de0fc2a" />
+
 
 - VaR comparison across three methodologies at 90%, 95%, 99% confidence
 - Expected Shortfall tail risk analysis
