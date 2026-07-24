@@ -1,4 +1,4 @@
-# Market Risk Dashboard — Quantitative Methods
+# Market Risk Dashboard : Quantitative Methods
 
 A multi-asset market risk analytics notebook implementing core quantitative risk methods used by risk desks at investment banks and asset managers.
 <img width="1328" height="490" alt="image" src="https://github.com/user-attachments/assets/21814057-9508-48c4-ac19-ff0c6c154aea" />
